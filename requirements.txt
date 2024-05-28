@@ -1,0 +1,6 @@
+streamlit
+PyPDF2
+langchain
+chromadb
+langchain_google_genai
+langchain_core
